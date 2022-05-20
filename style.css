@@ -1,0 +1,47 @@
+body {
+    background-color: #111111;
+}
+
+.container {
+    display: flex;
+}
+
+.main {
+    margin: 0 auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.lyric_box {
+    margin: 0 auto;
+    background-color: #141414;
+    border-radius: 10px;
+
+}
+
+.lyrics {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Zen Loop', cursive;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: aliceblue;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Zen Loop', cursive;
+    font-size: 130px;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: aliceblue;
+
+}
+
+.title_box {
+    margin: 0 auto;
+    background-color: #141414;
+    display: flex;
+    margin-bottom: 10%;
+    border-radius: 10px;
+}
